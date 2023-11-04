@@ -1,0 +1,10 @@
+html{
+    background-color: rgb(113, 134, 152);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+}
+div{
+    font-size: 8px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(31, 39, 45);
+}
