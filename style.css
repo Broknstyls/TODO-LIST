@@ -11,3 +11,7 @@ div{
 #whole{
     background-color: rgb(26, 28, 28);
 }
+span{
+    background-color: aquamarine;
+    display: block;
+}
