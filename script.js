@@ -7,5 +7,8 @@ fun.onclick = function(){
     }
 }
 let add= document.getElementById('add').onclick = function(){
-
+ let hey = document.createElement('h5');
+let todo = document.getElementById('objective').textContent;
+hey.append(todo)
+console.log(todo);
 }
